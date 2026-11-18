@@ -1,2 +1,20 @@
 # Cybersecurity-
-Cybersecurity Fundamentals, Tools and Research 
+Cybersecurity Fundamentals and Tools exploration
+
+Week 1
+Installation
+
+Week 2
+1. General:
+   a. whois : Furnishes domain related info (registration details)
+   b. whatweb : Web technologies used to build the site
+   c. nslooup : Displays IP address
+   d. curl -l : Reads Http response header
+   e. wafw00f : States whether WAF is enabled or not
+   f. dnsrecon : Lists dns records
+
+2. Maltego
+   OSINT Tool, searches domains in public dbs
+
+3.
+
