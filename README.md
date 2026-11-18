@@ -5,7 +5,7 @@ Week 1
 Installation
 
 Week 2
-[w2 final report (1).pdf](https://github.com/user-attachments/files/35003914/w2.final.report.1.pdf)
+[w2 final report (1).pdf](https://github.com/user-attachments/files/35004187/w2.final.report.1.pdf)
 1. General:
    a. whois : Furnishes domain related info (registration details)
    b. whatweb : Web technologies used to build the site
